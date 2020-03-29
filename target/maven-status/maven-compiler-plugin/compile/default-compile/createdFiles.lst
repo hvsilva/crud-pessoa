@@ -1,0 +1,17 @@
+com\pessoa\controller\ContatoController.class
+com\pessoa\model\ResponseModel.class
+com\pessoa\repository\ContatoRepository.class
+com\pessoa\util\HibernateUtil.class
+com\pessoa\service\PessoaService.class
+com\pessoa\service\ContatoService.class
+com\pessoa\model\Pessoa.class
+com\pessoa\MyApplication.class
+com\pessoa\service\PessoaServiceImpl.class
+com\pessoa\model\Contato.class
+com\pessoa\service\ContatoServiceImpl.class
+com\pessoa\exception\ResourceNotFoundException.class
+com\pessoa\repository\PessoaRepository.class
+com\pessoa\controller\PessoaController.class
+com\pessoa\exception\RecordNotFoundException.class
+com\pessoa\exception\ExceptionHandlerController.class
+Teste\TestPessoaController.class

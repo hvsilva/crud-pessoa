@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pessoa.config.PessoaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.874 s - in com.pessoa.config.PessoaApplicationTests
